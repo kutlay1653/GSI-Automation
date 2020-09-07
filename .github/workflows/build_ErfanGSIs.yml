@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/project-fluid/curtana/ten/gapped/FluidOS-0.6-Quenol-OFFICIAL-curtana-20200807-gapped.zip?r=https%3A%2F%2Ffluidos.me%2Fdownloads&ts=1599455017&use_mirror=netix
-  ROM_NAME: Generic
-  ZIP_NAME: Fluid
+  ROM_URL: https://drive.google.com/uc?export=download&id=10nAlswc7Gw-a8Gmxp6XP9zP2c6LxQ88C
+  ROM_NAME: MIUI
+  ZIP_NAME: MiuiPLUS
   TZ: Asia/Kolkata
   MIR: trs
 jobs:
