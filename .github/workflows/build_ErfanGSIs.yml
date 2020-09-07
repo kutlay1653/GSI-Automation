@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/uc?export=download&id=10nAlswc7Gw-a8Gmxp6XP9zP2c6LxQ88C
-  ROM_NAME: MIUI
-  ZIP_NAME: MiuiPLUS
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/nairo/official/RETAIL/NAIRO_RETAIL_10_QPN30.33-40_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_NAME: Generic
+  ZIP_NAME: MSI
   TZ: Asia/Kolkata
   MIR: trs
 jobs:
