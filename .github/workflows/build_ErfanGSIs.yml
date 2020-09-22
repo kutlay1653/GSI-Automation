@@ -14,11 +14,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://github.com/zenlty/GM9Pro_Sprout-Custom-Rom/releases/download/v1.2-stable/GM9PRO_ZENLTY-EDITED_V1.2.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/odessa/official/RETLA/XT2087-1_ODESSA_RETLA_10_QPA30.19-Q3-32-39_subsidy-DEFAULT_regulatory-XT2087-1-LATAM_CFC.xml.zip
   ROM_NAME: Generic
-  ZIP_NAME: zenlty
+  ZIP_NAME: msi
   TZ: Asia/Kolkata
-  MIR: trs
+  MIR: wss
 jobs:
   build:
     runs-on: ubuntu-latest
